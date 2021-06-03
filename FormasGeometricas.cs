@@ -18,10 +18,10 @@ namespace FormasGeometricas
             this.altura_ = altura_;
         }
 
-        public int area(){
+        public int Area(){
             return base_ * altura_;
         }
-        public int perimetro(){
+        public int Perimetro(){
             return 2*base_ + 2*altura_;
         }
     }
@@ -44,7 +44,7 @@ namespace FormasGeometricas
             this.alturaT = alturaT;
         }
 
-        public int area(){
+        public int Area(){
             return baseT * alturaT / 2;
         }
 
