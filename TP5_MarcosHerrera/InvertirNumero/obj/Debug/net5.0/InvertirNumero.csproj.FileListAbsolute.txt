@@ -1,0 +1,16 @@
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\obj\Debug\net5.0\InvertirNumero.csproj.AssemblyReference.cache
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\obj\Debug\net5.0\InvertirNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\obj\Debug\net5.0\InvertirNumero.AssemblyInfoInputs.cache
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\obj\Debug\net5.0\InvertirNumero.AssemblyInfo.cs
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\obj\Debug\net5.0\InvertirNumero.csproj.CoreCompileInputs.cache
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\bin\Debug\net5.0\InvertirNumero.exe
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\bin\Debug\net5.0\InvertirNumero.deps.json
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\bin\Debug\net5.0\InvertirNumero.runtimeconfig.json
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\bin\Debug\net5.0\InvertirNumero.runtimeconfig.dev.json
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\bin\Debug\net5.0\InvertirNumero.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\bin\Debug\net5.0\ref\InvertirNumero.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\bin\Debug\net5.0\InvertirNumero.pdb
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\obj\Debug\net5.0\InvertirNumero.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\obj\Debug\net5.0\ref\InvertirNumero.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\obj\Debug\net5.0\InvertirNumero.pdb
+C:\Users\Alternative\Desktop\C_sharp\Taller1\TP5_MarcosHerrera\InvertirNumero\obj\Debug\net5.0\InvertirNumero.genruntimeconfig.cache
