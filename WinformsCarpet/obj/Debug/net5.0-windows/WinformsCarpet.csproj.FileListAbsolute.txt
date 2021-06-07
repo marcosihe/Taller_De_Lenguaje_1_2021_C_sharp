@@ -1,0 +1,16 @@
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\bin\Debug\net5.0-windows\WinformsCarpet.exe
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\bin\Debug\net5.0-windows\WinformsCarpet.deps.json
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\bin\Debug\net5.0-windows\WinformsCarpet.runtimeconfig.json
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\bin\Debug\net5.0-windows\WinformsCarpet.runtimeconfig.dev.json
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\bin\Debug\net5.0-windows\WinformsCarpet.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\bin\Debug\net5.0-windows\ref\WinformsCarpet.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\bin\Debug\net5.0-windows\WinformsCarpet.pdb
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\obj\Debug\net5.0-windows\WinformsCarpet.csproj.AssemblyReference.cache
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\obj\Debug\net5.0-windows\WinformsCarpet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\obj\Debug\net5.0-windows\WinformsCarpet.AssemblyInfoInputs.cache
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\obj\Debug\net5.0-windows\WinformsCarpet.AssemblyInfo.cs
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\obj\Debug\net5.0-windows\WinformsCarpet.csproj.CoreCompileInputs.cache
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\obj\Debug\net5.0-windows\WinformsCarpet.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\obj\Debug\net5.0-windows\ref\WinformsCarpet.dll
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\obj\Debug\net5.0-windows\WinformsCarpet.pdb
+C:\Users\Alternative\Desktop\C_sharp\Taller1\WinformsCarpet\obj\Debug\net5.0-windows\WinformsCarpet.genruntimeconfig.cache
