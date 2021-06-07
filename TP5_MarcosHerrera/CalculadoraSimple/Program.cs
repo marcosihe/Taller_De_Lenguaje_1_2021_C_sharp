@@ -57,7 +57,7 @@ namespace CalculadoraSimple
                          if (segundoValor == 0)
                          {
                              mensaje.SepararMensajes();
-                             Console.WriteLine("¡Error! No se puede dividir por cero.");
+                             mensaje.MostrarErrorDivision();
                              mensaje.SepararMensajes();
                          }else{
                              mensaje.SepararMensajes();
