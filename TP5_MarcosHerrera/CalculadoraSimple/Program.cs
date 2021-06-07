@@ -40,17 +40,17 @@ namespace CalculadoraSimple
                     {
                         case 1:
                             mensaje.SepararMensajes();
-                            Console.WriteLine(primerValor +  " + " + segundoValor + " = " + operacion.Sumar());
+                            Console.WriteLine($"{primerValor} + {segundoValor} = {operacion.Sumar()}");
                             mensaje.SepararMensajes();
                             break;
                         case 2:
                             mensaje.SepararMensajes();
-                            Console.WriteLine(primerValor + " - " + segundoValor + " = " + operacion.Restar());
+                            Console.WriteLine($"{primerValor} + {segundoValor} = {operacion.Restar()}");
                             mensaje.SepararMensajes();
                             break;
                         case 3:
                             mensaje.SepararMensajes();
-                            Console.WriteLine(primerValor + " x " + segundoValor + " = " + operacion.Multiplicar());
+                            Console.WriteLine($"{primerValor} x {segundoValor} = {operacion.Multiplicar()}");
                             mensaje.SepararMensajes();
                             break;
                          case 4:
@@ -61,7 +61,7 @@ namespace CalculadoraSimple
                              mensaje.SepararMensajes();
                          }else{
                              mensaje.SepararMensajes();
-                             Console.WriteLine(primerValor + " / " + segundoValor + " = " + operacion.Dividir());
+                             Console.WriteLine($"{primerValor} / {segundoValor} = {operacion.Dividir()}");
                              mensaje.SepararMensajes();
                          }
                             break;
